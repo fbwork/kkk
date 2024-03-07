@@ -1,1 +1,2 @@
-print("\nHello Git")
+def greeting(name):
+    return f"\nHello from {name} to Git!")
